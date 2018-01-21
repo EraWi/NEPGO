@@ -1,7 +1,8 @@
 # NEPGO - Android app
 
 My job while developing this app was to create an Android application in which you can register/login into, make posts, see posts made by other users and customize your own profile.
-Backend was already handled when I started working on the project. 
+Backend was already handled when I started working on the project.
+Source code is not publicly available.
 
 Technologies/tools used:
 
